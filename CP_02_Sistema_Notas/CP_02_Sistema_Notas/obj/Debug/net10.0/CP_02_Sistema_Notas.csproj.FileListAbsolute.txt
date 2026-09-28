@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\bin\Debug\net10.0\CP_02_Sistema_Notas.exe
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\bin\Debug\net10.0\CP_02_Sistema_Notas.deps.json
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\bin\Debug\net10.0\CP_02_Sistema_Notas.runtimeconfig.json
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\bin\Debug\net10.0\CP_02_Sistema_Notas.dll
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\bin\Debug\net10.0\CP_02_Sistema_Notas.pdb
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\obj\Debug\net10.0\CP_02_Sistema_Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\obj\Debug\net10.0\CP_02_Sistema_Notas.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\obj\Debug\net10.0\CP_02_Sistema_Notas.AssemblyInfo.cs
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\obj\Debug\net10.0\CP_02_Sistema_Notas.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\obj\Debug\net10.0\CP_02_Sistema_Notas.dll
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\obj\Debug\net10.0\refint\CP_02_Sistema_Notas.dll
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\obj\Debug\net10.0\CP_02_Sistema_Notas.pdb
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\obj\Debug\net10.0\CP_02_Sistema_Notas.genruntimeconfig.cache
+C:\Users\labsfiap\Documents\GitHub\CP02_CSharp-_Development\CP_02_Sistema_Notas\CP_02_Sistema_Notas\obj\Debug\net10.0\ref\CP_02_Sistema_Notas.dll
